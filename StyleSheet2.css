@@ -1,0 +1,56 @@
+﻿
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f00;
+    margin: 0;
+    padding: 0;
+}
+.titulo {
+    text-align: center;
+    color: #0026ff; 
+}
+
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #4CAF50;
+    padding: 100px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#Button1 {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    #Button1:hover {
+        background-color: #45a049;
+    }
+
+label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+
+Image {
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    max-width: 100%; /* Ajustado para garantir que as imagens não ultrapassem a largura do contêiner */
+    width: 100%; /* Adicionado para garantir que todas as imagens mantenham a mesma largura */
+    height: auto;
+    margin: 10px 0; /* Adicionado espaço acima e abaixo das imagens */
+}
+
+Image, p {
+    display: inline-block;
+}

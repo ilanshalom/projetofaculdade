@@ -1,0 +1,292 @@
+C:\Users\Vini\source\repos\ProjetoInter\bin\ProjetoInter.dll.config
+C:\Users\Vini\source\repos\ProjetoInter\bin\ProjetoInter.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\ProjetoInter.pdb
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\csc.exe
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\csc.exe.config
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\csc.rsp
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\csi.exe
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\csi.exe.config
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\csi.rsp
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.AppContext.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Console.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Net.Http.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\vbc.exe
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\vbc.exe.config
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\vbc.rsp
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vini\source\repos\ProjetoInter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vini\source\repos\ProjetoInter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vini\source\repos\ProjetoInter\obj\Debug\ProjetoInter.csproj.AssemblyReference.cache
+C:\Users\Vini\source\repos\ProjetoInter\obj\Debug\ProjetoInter.csproj.CoreCompileInputs.cache
+C:\Users\Vini\source\repos\ProjetoInter\obj\Debug\ProjetoInter.csproj.CopyComplete
+C:\Users\Vini\source\repos\ProjetoInter\obj\Debug\ProjetoInter.dll
+C:\Users\Vini\source\repos\ProjetoInter\obj\Debug\ProjetoInter.pdb
+C:\Users\Vini\source\repos\ProjetoInter\bin\MySqlConnector.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Buffers.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Memory.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Numerics.Vectors.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Vini\source\repos\ProjetoInter\bin\MySqlConnector.xml
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Buffers.xml
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Memory.xml
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Numerics.Vectors.xml
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vini\source\repos\ProjetoInter\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\ProjetoInter.dll.config
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\ProjetoInter.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\ProjetoInter.pdb
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\csc.exe.config
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\csc.rsp
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\csi.exe
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\csi.exe.config
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\csi.rsp
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Console.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\vbc.exe.config
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\vbc.rsp
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\MySqlConnector.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Buffers.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Memory.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\MySqlConnector.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Buffers.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Memory.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\obj\Debug\ProjetoInter.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\projeto para\ProjetoInter\obj\Debug\ProjetoInter.pdb
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\ProjetoInter.dll.config
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\ProjetoInter.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\ProjetoInter.pdb
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\csc.exe
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\csc.exe.config
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\csc.rsp
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\csi.exe
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\csi.exe.config
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\csi.rsp
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.AppContext.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Console.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.IO.Compression.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Net.Http.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Net.Sockets.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.ValueTuple.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\vbc.exe
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\vbc.exe.config
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\vbc.rsp
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\VBCSCompiler.exe
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\MySqlConnector.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Buffers.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Memory.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Numerics.Vectors.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\MySqlConnector.xml
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Buffers.xml
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Memory.xml
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Numerics.Vectors.xml
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.CopyComplete
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\obj\Debug\ProjetoInter.dll
+C:\Users\autologon\Desktop\projeto para\ProjetoInter\obj\Debug\ProjetoInter.pdb
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\ProjetoInter.dll.config
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\ProjetoInter.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\ProjetoInter.pdb
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\MySqlConnector.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Memory.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\MySqlConnector.xml
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Memory.xml
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\obj\Debug\ProjetoInter.csproj.CopyComplete
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\obj\Debug\ProjetoInter.dll
+C:\Users\Admin\Downloads\projeto para\ProjetoInter\obj\Debug\ProjetoInter.pdb

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoInter", "ProjetoInter.csproj", "{6EEB10E1-8154-4C47-BC50-8201379C8B01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{F7988464-31E0-4B95-8C0A-53C9A9F9FC5A}"
+	ProjectSection(SolutionItems) = preProject
+		angel.jpg = angel.jpg
+		ilan.jpg.jpg = ilan.jpg.jpg
+		man.jpg.jpg = man.jpg.jpg
+		Rafa.jpe.jpg = Rafa.jpe.jpg
+		vinicius.jpg = vinicius.jpg
+		yuri.jpeg = yuri.jpeg
+		yuri.jpg = yuri.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EEB10E1-8154-4C47-BC50-8201379C8B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEB10E1-8154-4C47-BC50-8201379C8B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEB10E1-8154-4C47-BC50-8201379C8B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEB10E1-8154-4C47-BC50-8201379C8B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC6CC8F-7DC5-4E86-8507-FB3D585542D9}
+	EndGlobalSection
+EndGlobal
